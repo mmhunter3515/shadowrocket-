@@ -1,45 +1,45 @@
 # Shadowrocket（小火箭）账号节点购买配置安装指南
-## ![💡](https://s.w.org/images/core/emoji/15.0.3/svg/1f4a1.svg) 这是什么软件？
+## 这是什么软件？
 
 Shadowrocket 是一款 付费工具，可通过 App Store 购买，官方售价 $2.99 美元，所有费用归开发者所有。
 
-## ![📥](https://s.w.org/images/core/emoji/15.0.3/svg/1f4e5.svg) 如何获取 Shadowrocket？
+##  如何获取 Shadowrocket？
 
 要下载 Shadowrocket，你需要 非国区 Apple ID（一般为美区账户）。
 
 如果具备 美区 IP 环境，可以自己注册一个 美区 Apple ID，但最简单的方式是 直接购买一个已经绑定 Shadowrocket 的美区账号，使用更方便。
 
-## ![🎁](https://s.w.org/images/core/emoji/15.0.3/svg/1f381.svg) 免费共享 Shadowrocket 账号（临时使用）
+##  免费共享 Shadowrocket 账号（临时使用）
 
 以下提供部分 共享美区 Apple ID，适用于短期下载。如果想要 长期稳定使用，建议入手 专属账号。
 
-### ![🔹](https://s.w.org/images/core/emoji/15.0.3/svg/1f539.svg) 免费美区 Apple ID
+###  免费美区 Apple ID
 
-### ![📌](https://s.w.org/images/core/emoji/15.0.3/svg/1f4cc.svg) 使用须知：
+### 使用须知：
 
-- ![✅](https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg) 请在 App Store 内登录共享账号，下载 Shadowrocket 后 立即退出 并换回自己的 Apple ID。
-- ![⚠️](https://s.w.org/images/core/emoji/15.0.3/svg/26a0.svg) **注意：** 切勿在“设置”中登录该账号，否则可能导致 iCloud 绑定，甚至有设备被锁的风险！
-- ![⚡](https://s.w.org/images/core/emoji/15.0.3/svg/26a1.svg) 共享账号可能随时失效，建议购买 独享账号 以获得更稳定的体验。
+- 请在 App Store 内登录共享账号，下载 Shadowrocket 后 立即退出 并换回自己的 Apple ID。
+-  **注意：** 切勿在“设置”中登录该账号，否则可能导致 iCloud 绑定，甚至有设备被锁的风险！
+-  共享账号可能随时失效，建议购买 独享账号 以获得更稳定的体验。
 
-## ![🔥](https://s.w.org/images/core/emoji/15.0.3/svg/1f525.svg) 为什么推荐独享美区 Apple ID？
+##  为什么推荐独享美区 Apple ID？
 
-- ![✅](https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg) 更安全，不用担心账号随时失效
-- ![✅](https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg) 长期使用更稳定，不会因多人使用被封
-- ![✅](https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg) 除了 Shadowrocket，还能下载其他美区应用
+- 更安全，不用担心账号随时失效
+- 长期使用更稳定，不会因多人使用被封
+- 除了 Shadowrocket，还能下载其他美区应用
 
-## ![🔗](https://s.w.org/images/core/emoji/15.0.3/svg/1f517.svg) 购买独享美区 Shadowrocket 账号
+##  购买独享美区 Shadowrocket 账号
 
-## ![💡](https://s.w.org/images/core/emoji/15.0.3/svg/1f4a1.svg) 也可以自己注册美区 Apple ID！
+##  也可以自己注册美区 Apple ID！
 
 如果你想要 更安全放心，推荐 自己注册一个美区 Apple ID，其实并不复杂！
 
-![💰](https://s.w.org/images/core/emoji/15.0.3/svg/1f4b0.svg) **充值方式：** 可以使用 支付宝 或 Apple 美国官网 进行充值。
+**充值方式：** 可以使用 支付宝 或 Apple 美国官网 进行充值。
 
-![👉](https://s.w.org/images/core/emoji/15.0.3/svg/1f449.svg) **自己注册，安全无忧，随时使用！**
+**自己注册，安全无忧，随时使用！**
 
 ## 为什么选择 Shadowrocket？
 
-正如你在我们之前的文章中看到的，[在 iOS 上配置代理](https://anyip.io/blog/how-to-configure-proxy-on-iphone-ipad)已经超级简单了。
+正如你在我们之前的文章中看到的，在 iOS 上配置代理已经超级简单了。
 
 然而，使用 iOS 原生配置代理时的一个主要问题是配置多个代理配置文件。事实上，iOS 不允许您保存多个代理，这使得在帐户之间切换变得痛苦和烦人。
 
@@ -50,7 +50,7 @@ Shadowrocket 是一款 付费工具，可通过 App Store 购买，官方售�
 - 应用程序级代理：您可以选择哪些应用程序使用代理，哪些应用程序不使用代理。这真是一个福利！
 - 诊断工具：Shadowrocket 配备了一系列很酷的诊断工具，可帮助你跟踪使用情况
 
-我能想到的关于这个应用程序的唯一缺点是它[付费应用](https://apps.apple.com/us/app/shadowrocket/id932747118)。但相信我，这是一项很好的投资！
+我能想到的关于这个应用程序的唯一缺点是它付费应用。但相信我，这是一项很好的投资！
 
 ## 如何使用 Shadowrocket 在 iOS 上设置代理
 
@@ -124,9 +124,9 @@ Shadowrocket 可能是 iOS 上最好的代理应用程序。但是，您在使�
 
 最常见的情况是，您的代理连接失败是因为 URL:PORT 组合不正确。务必仔细检查您的用户名和密码，以确保连接成功。
 
-## ![❓](https://s.w.org/images/core/emoji/15.0.3/svg/2753.svg) 问题 1：登录时显示“无法登录”或一直卡住？
+##  问题 1：登录时显示“无法登录”或一直卡住？
 
-![✅](https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg) \*\*可能的解决方案：\*\*
+ \*\*可能的解决方案：\*\*
 
 - \*\*先把飞行模式开一下，然后再关掉\*\*（不是一直开着！）。
 - 打开 \*\*设置 → iTunes & App Store\*\*，滑到最底下，点击“了解数据的管理方式”，然后再点“完成”，回到 \*\*App Store\*\* 试试看。
@@ -147,9 +147,9 @@ Shadowrocket 可能是 iOS 上最好的代理应用程序。但是，您在使�
     
 - 如果还是不行，试试 \*\*重置网络设置\*\*（可以百度“iPhone 重置网络”教程），然后再按照上面的步骤来一遍。
 
-## ![❓](https://s.w.org/images/core/emoji/15.0.3/svg/2753.svg) 问题 2：提示“账号或密码错误”？
+##  问题 2：提示“账号或密码错误”？
 
-![⚠️](https://s.w.org/images/core/emoji/15.0.3/svg/26a0.svg) \*\*重点提醒：\*\*
+\*\*重点提醒：\*\*
 
 - \*\*千万别在 iPhone 设置里登录！\*\*
 - \*\*一定要在 App Store 里输入账号和密码！\*\*
@@ -158,9 +158,9 @@ Shadowrocket 可能是 iOS 上最好的代理应用程序。但是，您在使�
     - 有没有 \*\*多输入了空格\*\*？
     - 注意 \*\*大小写是否正确\*\*！
 
-## ![❓](https://s.w.org/images/core/emoji/15.0.3/svg/2753.svg) 问题 3：正确的登录方式是什么？
+##  问题 3：正确的登录方式是什么？
 
-![✅](https://s.w.org/images/core/emoji/15.0.3/svg/2705.svg) \*\*正确操作步骤：\*\*
+ \*\*正确操作步骤：\*\*
 
 1. 打开 \*\*App Store\*\*。
 2. 点击 \*\*右上角头像\*\*。
